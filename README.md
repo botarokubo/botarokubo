@@ -1,4 +1,4 @@
-# Hi there, I'm Azim Haziq 👋
+# Hi there, I'm Botaro👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Laravel+Developer;Angular+Learner;C%2B%2B+Enthusiast;Government+System+Experience;Always+Learning" />
