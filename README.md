@@ -57,7 +57,8 @@ Worked on modules for **eLesen 2.0** under Jabatan Perikanan Malaysia:
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![botarokubo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=botarokubo&theme=github-compact)]
+  [![botarokubo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=botarokubo&theme=github-compact)] (https://github.com/botarokubo/github-readme-activity-graph)
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botarokubo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
